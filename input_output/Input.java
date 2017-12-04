@@ -1,4 +1,6 @@
 package input_output;
+import java.util.Scanner;
+import java.io.*;
 import java.io.IOException;
 
 public interface Input{

@@ -1,9 +1,6 @@
-
+  import input_output.*;
   import java.io.FileNotFoundException;
   import java.io.IOException;
-  import java.util.Scanner;
-  import java.io.*;
-  import input_output.*;
 
   public class Assembler_Application {
     public static void main(String[] args)throws IOException{
